@@ -1,4 +1,5 @@
-# csv_formated_to_ggcal
+### NOTE: Vì đây chỉ là project cá nhân mình làm trong lúc rảnh nên sẽ không tránh được lỗi, và có thể file này chỉ hoạt động ở một số trường đại học như Văn Lang, chúc mọi người thành công :)
+
 
 Công dụng: srcript này sẽ chuyển file pdf lịch học của bạn được tải về từ trang onl.vlu của trường bạn và chuyển về file CSV để có thể cập nhập vào gg calendar hoặc chỉ muốn trực quan lịch học (tuỳ vào nhu cầu cá nhân :)) )
 
@@ -19,4 +20,3 @@ Nhập tên của file pdf bạn vừa tải về
 file csv sau khi hoàn thành sẽ mang tên "output.csv"
 
 
-### NOTE: Vì đây chỉ là project cá nhân mình làm trong lúc rảnh nên sẽ không tránh được lỗi, và có thể file này chỉ hoạt động ở một số trường đại học như Văn Lang, chúc mọi người thành công :)
