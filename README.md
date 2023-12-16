@@ -12,11 +12,14 @@ Vào TKB Thứ-tiết chọn lịch của học kì cần in và chọn in TKB
 <img width="1184" alt="Ảnh màn hình 2023-12-15 lúc 13 35 48" src="https://github.com/tonyhyge/csv_formated_to_ggcal/assets/119439154/d7a87cbb-4fb7-4d3e-800e-c1cc1c389c4c">
 
 Sẽ tải về file pdf cần để chuyển thành file csv
+<img width="1125" alt="Ảnh màn hình 2023-12-17 lúc 00 26 47" src="https://github.com/tonyhyge/csv_formated_for_ggcal/assets/119439154/8ea1594f-8132-45fb-8ae8-3f2a0dcb23eb">
+
 
 Sau đó vào file project và chạy file
 
 Nhập tên của file pdf bạn vừa tải về
 
 file csv sau khi hoàn thành sẽ mang tên "output.csv"
+<img width="764" alt="Ảnh màn hình 2023-12-17 lúc 00 27 24" src="https://github.com/tonyhyge/csv_formated_for_ggcal/assets/119439154/78644ac7-74cb-4820-a32b-9ab943bd1a37">
 
 
